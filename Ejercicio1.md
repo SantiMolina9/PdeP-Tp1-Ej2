@@ -1,21 +1,21 @@
-# PdeP-Tp1-Ej2
+# PdeP-Tp1-Ej1
 Cuáles son las reglas escritas del lenguaje?
 
-1.Sensibilidad a mayúsculas y minúsculas: JavaScript es sensible a mayúsculas y minúsculas, lo que significa que distingue entre letras mayúsculas y minúsculas. Por ejemplo, variable y Variable se consideran diferentes.
+1. Sensibilidad a mayúsculas y minúsculas: JavaScript es sensible a mayúsculas y minúsculas, lo que significa que distingue entre letras mayúsculas y minúsculas. Por ejemplo, variable y Variable se consideran diferentes.
 
-2.Nombres de variables: Los nombres de variables en JavaScript deben comenzar con una letra, un guion bajo (_) o un signo de dólar ($) y pueden contener letras, números, guiones bajos o signos de dólar. Ejemplos válidos de nombres de variables son miVariable, _variable1, $variable2.
+2. Nombres de variables: Los nombres de variables en JavaScript deben comenzar con una letra, un guion bajo (_) o un signo de dólar ($) y pueden contener letras, números, guiones bajos o signos de dólar. Ejemplos válidos de nombres de variables son miVariable, _variable1, $variable2.
 
-3.Palabras clave reservadas: JavaScript tiene un conjunto de palabras clave reservadas que no se pueden utilizar como nombres de variables, ya que tienen un significado especial en el lenguaje. Algunas de estas palabras clave incluyen var, if, else, while, function, return, entre otras.
+3. Palabras clave reservadas: JavaScript tiene un conjunto de palabras clave reservadas que no se pueden utilizar como nombres de variables, ya que tienen un significado especial en el lenguaje. Algunas de estas palabras clave incluyen var, if, else, while, function, return, entre otras.
 
-4.Comentarios: Puedes agregar comentarios en tu código JavaScript utilizando // para comentarios de una sola línea o /* */ para comentarios de varias líneas. Los comentarios se utilizan para hacer anotaciones en el código que no se ejecutan.
+4. Comentarios: Puedes agregar comentarios en tu código JavaScript utilizando // para comentarios de una sola línea o /* */ para comentarios de varias líneas. Los comentarios se utilizan para hacer anotaciones en el código que no se ejecutan.
 
-5.Declaración de variables: Debes declarar una variable antes de usarla. Esto se hace utilizando las palabras clave var, let o const
+5. Declaración de variables: Debes declarar una variable antes de usarla. Esto se hace utilizando las palabras clave var, let o const
 
-6.Punto y coma: Aunque JavaScript permite omitir el punto y coma al final de una línea, es una buena práctica incluirlos para evitar posibles problemas de interpretación del código.
+6. Punto y coma: Aunque JavaScript permite omitir el punto y coma al final de una línea, es una buena práctica incluirlos para evitar posibles problemas de interpretación del código.
 
-7.Bloques de código: Los bloques de código se delimitan con llaves {}
+7. Bloques de código: Los bloques de código se delimitan con llaves {}
 
-8.Operadores: JavaScript utiliza una variedad de operadores, como +, -, *, /, ==, ===, !=, !==, &&, ||, entre otros, para realizar operaciones matemáticas y lógicas.
+8. Operadores: JavaScript utiliza una variedad de operadores, como +, -, *, /, ==, ===, !=, !==, &&, ||, entre otros, para realizar operaciones matemáticas y lógicas.
 
 9. Cadenas de texto: Las cadenas de texto se pueden definir utilizando comillas simples (') o comillas dobles (").
 
